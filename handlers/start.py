@@ -22,7 +22,7 @@ Add me to your group and play music freely😆!**
                         " 𝐔𝐏𝐃𝐀𝐓𝐄𝐃𝐒♐", url="https://t.me/PRIN_SECC")
                   ],[
                     InlineKeyboardButton(
-                        "📢 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 📢", url="https://t.me/books_on_demand"
+                        "📢 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 📢", url="https://t.me/PRIN_SECC"
                     ),
                     InlineKeyboardButton(
                         "👑𝐎𝐖𝐍𝐄𝐑👑", url="https://t.me/Ak_Dukhi_Aatma"
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔰 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 🔰", url="https://t.me/books_on_demand")
+                        "🔰 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 🔰", url="https://t.me/PRIN_SECC")
                 ]
             ]
         )
