@@ -13,7 +13,7 @@ async def start(_, message: Message):
 
 I can play ꬺᶙȿᶖɕ  in your group's voice CHAT Developed by [『PRINCE✰』](https://t.me/Princepati96k)
 
-Add me to your group and play music freely😆!**
+Add me to your group and play music freely😆!** JOIN @STUDY_FLOWER_QUIZ_GROUP
         """,
         reply_markup=InlineKeyboardMarkup(
             [
