@@ -29,7 +29,7 @@ Add me to your group and play music freely😆!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "𝐀𝐃𝐃 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏", url="https://t.me/PRINCE_KING_MUSIC?startgroup=true"
+                        "𝐀𝐃𝐃 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏", url="https://t.me/PRINCE_PRINCESS_ASSISTANT?startgroup=true"
                     )]
             ]
         ),
